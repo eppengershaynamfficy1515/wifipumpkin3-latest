@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download WiFiPumpkin3 Latest](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/wifipumpkin3-latest)
+[![Download WiFiPumpkin3 Latest](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/m9KoFMk0KXNaoWUGh)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download WiFiPumpkin3 Latest](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/wifipumpkin3-latest)
+[![Download WiFiPumpkin3 Latest](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/m9KoFMk0KXNaoWUGh)
 
 </div>
 
@@ -172,7 +172,7 @@ Test Wi-Fi security with rogue access points for free. **WiFiPumpkin3 – Rogue 
 
 <div align="center">
 
-[![Download WiFiPumpkin3 Latest](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/wifipumpkin3-latest)
+[![Download WiFiPumpkin3 Latest](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/m9KoFMk0KXNaoWUGh)
 
 **Version 3.2.0** — Free rogue access point framework. May 2026 update. Zero cost. No payment.
 
